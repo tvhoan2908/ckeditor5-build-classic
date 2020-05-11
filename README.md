@@ -27,7 +27,7 @@ See:
 First, install the build from npm:
 
 ```bash
-npm install --save @ckeditor/ckeditor5-build-classic
+npm install --save tvhoan2908/ckeditor5-build-classic
 ```
 
 And use it in your website:
